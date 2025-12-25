@@ -1,0 +1,14 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "JavaScript basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Anandh A",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "30.2.0"
+  }
+}
